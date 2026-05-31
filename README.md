@@ -44,8 +44,8 @@
 
 ## 🖼️ Screenshots
 
-![ESP example](screen1.png)
-![Menu](screen2.png)
+![ESP example](esp.png)
+![Menu](scr1.png)
 
 ---
 
