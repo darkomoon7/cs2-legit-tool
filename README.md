@@ -2,7 +2,7 @@
 
 > 🔥 **Undetected CS2 multihack with ESP, Aimbot, and Bunnyhop – free and working after last update.**
 
-![CS2 Hack Menu](screen1.png)
+![CS2 Hack Menu](screen1.jpg)
 
 ---
 
