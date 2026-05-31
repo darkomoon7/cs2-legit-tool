@@ -42,11 +42,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-![ESP example](esp.png)
-![Menu](scr1.jpg)
-
 ---
 
 ## 💬 User Feedback
