@@ -60,4 +60,4 @@ For educational and entertainment purposes only. The authors are not responsible
 
 ---
 
-© 2025 CS2 Tools. All rights reserved.
+© 2026 CS2 Tools. All rights reserved.
